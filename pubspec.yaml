@@ -35,6 +35,14 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   flutter_launcher_icons: ^0.9.3
+  animated_text_kit: ^4.2.1 # animation de text
+  lottie: ^1.2.2 # des images animéé
+  get: ^4.6.1 # getx navigation entre les pages du projet
+  get_storage: ^2.0.3 # gestion de stockage locale
+  image_picker: ^0.8.5+3
+  ndialog: ^4.1.1
+  fluttertoast: ^8.0.9
+  gallery_saver: ^2.3.2
 
 dev_dependencies:
   flutter_test:
